@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "project": "promptedsite-template-09",
+  "release": "5d2dade30b741518",
+  "prefix": "templates/promptedsite-template-09/releases/5d2dade30b741518",
+  "baseUrl": "https://cdn.promptedsite.com/templates/promptedsite-template-09/releases/5d2dade30b741518",
+  "totalBytes": 46216,
+  "files": {
+    "assets/static/immutable/media/797e433ab948586e-s.p.1v5bejj26fx9h.woff2": {
+      "bytes": 23108,
+      "sha256": "5f3d6ad60f29d6cb708414ec6887163d63bf197377ef5417d2483ff31ace6c3b",
+      "contentType": "font/woff2"
+    },
+    "fonts/geist.woff2": {
+      "bytes": 23108,
+      "sha256": "5f3d6ad60f29d6cb708414ec6887163d63bf197377ef5417d2483ff31ace6c3b",
+      "contentType": "font/woff2"
+    }
+  }
+}
